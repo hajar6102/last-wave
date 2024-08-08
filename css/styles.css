@@ -651,14 +651,7 @@ gap: 5px;
     max-width: 300px;  
   }
 
-#COM .card.card-up:hover{
-    transform: translateY(-40px);
-   
-}
-#COM .card.card-down:hover{
-  transform: translateY(40px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
+
   .circle {
     width: 100px;
     height: 100px;
