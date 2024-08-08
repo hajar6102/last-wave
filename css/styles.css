@@ -772,7 +772,14 @@ gap: 5px;
   }
     
 @media (min-width: 820px) {
-  
+   #COM .card.card-up:hover{
+    transform: translateY(-40px);
+   
+}
+#COM .card.card-down:hover{
+  transform: translateY(40px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
 .nav-link{
   position: relative;
   /* transition: 0.3s ; */
